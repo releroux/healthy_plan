@@ -1,0 +1,181 @@
+monday:
+  - name: Breakfast
+    meal: Scrambled eggs with spinach and feta
+    calories: 420
+    protein_g: 34
+    carbs_g: 6
+    fat_g: 28
+  - name: Lunch
+    meal: Grilled chicken breast with broccoli and olive oil
+    calories: 480
+    protein_g: 52
+    carbs_g: 10
+    fat_g: 22
+  - name: Dinner
+    meal: Baked salmon with asparagus
+    calories: 520
+    protein_g: 45
+    carbs_g: 8
+    fat_g: 32
+  - name: Snack
+    meal: Greek yogurt with almonds
+    calories: 260
+    protein_g: 20
+    carbs_g: 9
+    fat_g: 16
+
+tuesday:
+  - name: Breakfast
+    meal: Protein shake with peanut butter
+    calories: 400
+    protein_g: 40
+    carbs_g: 12
+    fat_g: 18
+  - name: Lunch
+    meal: Turkey lettuce wraps with avocado
+    calories: 450
+    protein_g: 42
+    carbs_g: 9
+    fat_g: 24
+  - name: Dinner
+    meal: Beef stir-fry with mixed peppers
+    calories: 540
+    protein_g: 48
+    carbs_g: 14
+    fat_g: 26
+  - name: Snack
+    meal: Cottage cheese with berries
+    calories: 220
+    protein_g: 22
+    carbs_g: 11
+    fat_g: 8
+
+wednesday:
+  - name: Breakfast
+    meal: Omelette with mushrooms and cheddar
+    calories: 430
+    protein_g: 32
+    carbs_g: 5
+    fat_g: 30
+  - name: Lunch
+    meal: Tuna salad with olive oil dressing
+    calories: 440
+    protein_g: 44
+    carbs_g: 7
+    fat_g: 24
+  - name: Dinner
+    meal: Grilled steak with sauteed spinach
+    calories: 560
+    protein_g: 50
+    carbs_g: 6
+    fat_g: 34
+  - name: Snack
+    meal: Hard-boiled eggs
+    calories: 160
+    protein_g: 13
+    carbs_g: 1
+    fat_g: 11
+
+thursday:
+  - name: Breakfast
+    meal: Greek yogurt with chia seeds and walnuts
+    calories: 380
+    protein_g: 28
+    carbs_g: 10
+    fat_g: 22
+  - name: Lunch
+    meal: Grilled chicken Caesar salad, no croutons
+    calories: 470
+    protein_g: 46
+    carbs_g: 8
+    fat_g: 26
+  - name: Dinner
+    meal: Baked cod with roasted zucchini
+    calories: 460
+    protein_g: 44
+    carbs_g: 9
+    fat_g: 20
+  - name: Snack
+    meal: Protein shake
+    calories: 200
+    protein_g: 30
+    carbs_g: 5
+    fat_g: 5
+
+friday:
+  - name: Breakfast
+    meal: Bacon and eggs with tomato
+    calories: 460
+    protein_g: 30
+    carbs_g: 6
+    fat_g: 34
+  - name: Lunch
+    meal: Shrimp and avocado salad
+    calories: 420
+    protein_g: 38
+    carbs_g: 10
+    fat_g: 22
+  - name: Dinner
+    meal: Grilled lamb chops with green beans
+    calories: 570
+    protein_g: 46
+    carbs_g: 8
+    fat_g: 36
+  - name: Snack
+    meal: Almonds and cheese cubes
+    calories: 240
+    protein_g: 14
+    carbs_g: 6
+    fat_g: 18
+
+saturday:
+  - name: Breakfast
+    meal: Protein pancakes with berries
+    calories: 440
+    protein_g: 36
+    carbs_g: 20
+    fat_g: 18
+  - name: Lunch
+    meal: Grilled chicken thighs with cauliflower rice
+    calories: 500
+    protein_g: 48
+    carbs_g: 12
+    fat_g: 24
+  - name: Dinner
+    meal: Pan-seared tuna steak with mixed greens
+    calories: 500
+    protein_g: 47
+    carbs_g: 7
+    fat_g: 26
+  - name: Snack
+    meal: Beef jerky
+    calories: 150
+    protein_g: 20
+    carbs_g: 4
+    fat_g: 6
+
+sunday:
+  - name: Breakfast
+    meal: Eggs Benedict-style with turkey bacon (no muffin)
+    calories: 450
+    protein_g: 33
+    carbs_g: 6
+    fat_g: 32
+  - name: Lunch
+    meal: Roast chicken with brussels sprouts
+    calories: 490
+    protein_g: 50
+    carbs_g: 9
+    fat_g: 22
+  - name: Dinner
+    meal: Slow-cooked beef brisket with roasted vegetables
+    calories: 560
+    protein_g: 49
+    carbs_g: 12
+    fat_g: 30
+  - name: Snack
+    meal: Greek yogurt with a drizzle of honey
+    calories: 210
+    protein_g: 18
+    carbs_g: 14
+    fat_g: 8
