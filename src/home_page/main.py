@@ -71,7 +71,7 @@ def exercise_plan_page() -> rx.Component:
     return page_shell("Exercise Plan", "exercise", exercise_plan_content())
 
 
-app = rx.App()
+app = rx.App(enable_state=False)
 app.add_page(index, route="/", title="Today")
 app.add_page(meal_plan_page, route="/meal-plan", title="Meal Plan")
 app.add_page(exercise_plan_page, route="/exercise-plan", title="Exercise Plan")
